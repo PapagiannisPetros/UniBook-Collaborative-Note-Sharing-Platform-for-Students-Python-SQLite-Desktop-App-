@@ -19,7 +19,17 @@ UniBook is a Python + SQLite desktop app for students to share, discuss, and org
 - **Language:** Python  
 - **Database:** SQLite  
 - **GUI Framework:** PyQt (QWidget-based windows, QMessageBoxes for dialogs)  
+- **IDE:** Qt Creator  
 - **Design Tools:** Figma, Visual Paradigm, draw.io  
+
+## Academic Context
+This project was developed as part of the *Software Technology* academic subject.  
+The development process followed structured software engineering practices, including:
+- **Use Case Analysis**  
+- **Robustness Analysis**  
+- **Sequence Diagrams**  
+- **Domain Models**  
+- **Class Diagrams**  
 
 ## Installation
 ```bash
